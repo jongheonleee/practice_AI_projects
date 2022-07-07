@@ -1,6 +1,6 @@
 # AI_projects
 
-# 🏆my first AI progect with nadocoding<br>
+# 🏆my first AI project with nadocoding<br>
 
 -i really appreciate <b>nadocoding</b>!!!
 (https://www.youtube.com/watch?v=TNcfJHajqJY)
