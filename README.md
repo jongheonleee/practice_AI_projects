@@ -7,3 +7,9 @@
 
 
 > all i want to do with this is getting experiences for making AI 
+
+
+
+### list AI_projects
+
+> - 1. nadocoding; Movie Recommendation Service
