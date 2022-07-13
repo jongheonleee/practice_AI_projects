@@ -6,4 +6,4 @@
 - therefore i can enjoy coding!! 😍
 
 
-## 💢i will going to merge two branches if i have some time
+> all i want to do with this is getting experiences for making AI 
