@@ -12,4 +12,4 @@
 
 ### list AI_projects
 
-> - 1. nadocoding; Movie Recommendation Service
+> - first: nadocoding; Movie Recommendation Service
