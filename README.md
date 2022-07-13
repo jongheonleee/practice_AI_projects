@@ -6,7 +6,7 @@
 - therefore i can enjoy coding!! 😍
 
 
-> all i want to do with this is getting experiences for making AI 
+=> <b>all i want to do with this is getting experiences for making AI</b>
 
 
 
