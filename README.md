@@ -10,6 +10,6 @@
 
 
 
-### list AI_projects
+### List AI_projects
 
-> - first: nadocoding; Movie Recommendation Service
+> - first: nadocoding; <b>Movie Recommendation Service</b>
